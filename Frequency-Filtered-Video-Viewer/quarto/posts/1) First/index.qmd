@@ -1,0 +1,13 @@
+---
+title: "1.) Library Imports"
+author: "Gavesh Aggarwal"
+date: "2024-02-20"
+categories: [code]
+image: "image1.jpg"
+---
+
+The necessary libraries are imported. cv2 is OpenCV, for computer vision tasks. numpy is imported as np, which is used for numerical operations. signal module from scipy is imported as sig, which is used for signal processing.
+
+CODE :-
+
+![](1.png)

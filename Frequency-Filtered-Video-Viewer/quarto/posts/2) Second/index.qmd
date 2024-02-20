@@ -1,0 +1,13 @@
+---
+title: "2.) Function for Filtering Frequency"
+author: "Gavesh Aggarwal"
+date: "2024-02-20"
+categories: [code]
+image: "image2.jpg"
+---
+
+This function, filter_frequency, takes in a signal, a frequency range, and the frames per second (fps) of the video. It calculates the Nyquist frequency (half of the sampling rate), determines the cutoff frequency within the specified frequency range, designs a Butterworth low-pass filter with a 4th order, and filters the signal using scipy's filtfilt function, which applies a digital filter forward and backward to eliminate phase shifts.
+
+CODE :-
+
+![](2.png)

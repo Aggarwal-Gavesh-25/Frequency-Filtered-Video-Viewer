@@ -1,0 +1,13 @@
+---
+title: "5.) Window Closure"
+author: "Gavesh Aggarwal"
+date: "2024-02-20"
+categories: [code]
+image: "image5.jpg"
+---
+
+Finally, cap.release() releases the video capture object, and cv2.destroyAllWindows() closes all OpenCV windows.
+
+CODE :-
+
+![](5.png)
