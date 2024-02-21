@@ -31,4 +31,4 @@ This Python script applies frequency filtering to a video file and displays both
 
 ## Quarto Post
 
-![Quarto Post](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1440" alt="Quarto Post" src="https://github.com/Aggarwal-Gavesh-25/Frequency-Filtered-Video-Viewer/assets/118240223/73670a99-2269-4e87-982b-46adef5ccb14">
