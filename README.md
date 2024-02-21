@@ -21,7 +21,7 @@ This Python script applies frequency filtering to a video file and displays both
 
 1. Replace `/Users/gavesh_aggarwal/Desktop/Frequency-Filtered-Video-Viewer/video.mp4` with the path to your video file.
 
-2. Run the script:
+2. Run the script.
 
 
 3. Press 'q' to exit the video playback window.
