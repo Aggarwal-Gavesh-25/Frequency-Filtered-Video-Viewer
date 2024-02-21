@@ -4,9 +4,9 @@ This Python script applies frequency filtering to a video file and displays both
 
 ## Features
 
-- [Jupyter notebook](https://www.youtube.com/watch?v=YoKjBcuUP0s ) (.ipynb) explaining all the details of the code.
-- [Python](https://www.youtube.com/watch?v=YoKjBcuUP0s ) (.py) file.
-- [Quarto blog post](https://www.youtube.com/watch?v=YoKjBcuUP0s ) hosting the notebook.
+- [Jupyter notebook](https://github.com/Aggarwal-Gavesh-25/Frequency-Filtered-Video-Viewer/blob/main/Frequency-Filtered-Video-Viewer/jupyter.ipynb) (.ipynb) explaining all the details of the code.
+- [Python](https://github.com/Aggarwal-Gavesh-25/Frequency-Filtered-Video-Viewer/blob/main/Frequency-Filtered-Video-Viewer/python.py) (.py) file.
+- [Quarto blog post](https://github.com/Aggarwal-Gavesh-25/Frequency-Filtered-Video-Viewer/tree/main/Frequency-Filtered-Video-Viewer/quarto) hosting the notebook.
 
 ## Resources Referred
 
