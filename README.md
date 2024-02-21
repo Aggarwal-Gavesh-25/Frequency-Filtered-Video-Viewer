@@ -23,9 +23,12 @@ This Python script applies frequency filtering to a video file and displays both
 
 2. Run the script.
 
-
 3. Press 'q' to exit the video playback window.
 
 ## Result
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Result](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Quarto Post
+
+![Quarto Post](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
