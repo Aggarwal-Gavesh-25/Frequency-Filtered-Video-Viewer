@@ -27,7 +27,7 @@ This Python script applies frequency filtering to a video file and displays both
 
 ## Result
 
-![Result](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="745" alt="Result" src="https://github.com/Aggarwal-Gavesh-25/Frequency-Filtered-Video-Viewer/assets/118240223/095fee1b-baaf-4cb4-837a-2d1c9cb00d2d">
 
 ## Quarto Post
 
