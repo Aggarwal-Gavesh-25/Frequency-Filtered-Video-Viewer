@@ -11,10 +11,7 @@ This Python script applies frequency filtering to a video file and displays both
 ## Resources Referred
 
 - Python was a part of my 3rd semester's curriculum and therefore, I was well acquainted with the terminologies and basics.
-- To gather knowledge regarding this particular project, I referred:
--> Youtube
--> Stack Overflow
--> Chat GPT
+- To gather knowledge regarding this particular project, I referred: Youtube, Stack Overflow, Chat GPT
 - To create Quarto blog post, I referred to this [video](https://www.youtube.com/watch?v=YoKjBcuUP0s ).
 
 ## Usage
